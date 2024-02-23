@@ -1,5 +1,2 @@
-# mary-sergio-talles-1aii--t2
-Este é um repositório de Mary Vitória e Talles Afonso do 1° AII
-reseba, faz o L esse é um
-PROTÓTIPO
-PROTÓTIPO
+# webdesign-1aii-t2
+Webdesign da turma 1AII - Turma 2
